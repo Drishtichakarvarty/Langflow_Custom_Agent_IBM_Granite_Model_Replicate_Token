@@ -5,8 +5,11 @@
 **Step-2** Register on **Replicate platfom** (https://replicate.com/signin) with your **github account** and create replicate token.
 
 **Step-3** Create a **blank flow**. Add the **required components**:
+
 **1. Chat Input**
+
 **2. Agent**
+
 **3. Chat Output**
 <img width="1919" height="1136" alt="image" src="https://github.com/user-attachments/assets/562e05f3-f6d5-4bee-80c1-b752bdabcb89" />
 <img width="1919" height="1142" alt="image" src="https://github.com/user-attachments/assets/dead942e-2311-4712-a115-237415118cbb" />
